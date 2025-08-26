@@ -1,5 +1,7 @@
 /**
  * Link: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description
+ * Tags: Array
+ * Difficulty: Easy
  * Date: 2025-08-26
  */
 

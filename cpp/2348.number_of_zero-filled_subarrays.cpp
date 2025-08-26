@@ -1,5 +1,7 @@
 /**
  * Link: https://leetcode.com/problems/number-of-zero-filled-subarrays/description
+ * Tags: Array, Math
+ * Difficulty: Medium
  * Date: 2025-08-24
  */
 

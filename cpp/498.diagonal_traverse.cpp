@@ -1,5 +1,7 @@
 /**
  * Link: https://leetcode.com/problems/diagonal-traverse/description
+ * Tags: Array, Matrix, Simulation
+ * Difficulty: Medium
  * Date: 2025-08-25
  */
 

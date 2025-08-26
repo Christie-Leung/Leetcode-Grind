@@ -1,5 +1,7 @@
 """
 Link: https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/
+Tags: String
+Difficulty: Easy
 Date: 2025-08-24
 """
 

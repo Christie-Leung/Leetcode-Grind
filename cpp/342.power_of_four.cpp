@@ -1,5 +1,7 @@
 /**
  * Link: https://leetcode.com/problems/power-of-four/description
+ * Tags: Math
+ * Difficulty: Easy
  * Date: 2025-08-24
  */
 

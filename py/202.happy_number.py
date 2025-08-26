@@ -1,5 +1,7 @@
 """
 Link: https://leetcode.com/problems/happy-number/description/
+Tags: Recursion, Math
+Difficulty: Easy
 Date: 2025-08-24
 """
 
