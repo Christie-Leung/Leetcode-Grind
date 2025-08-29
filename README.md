@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 12
-- **Current streak:** 5 days
-- **Longest streak:** 5 days
-- **Most recent attempt:** 2025-08-28
+- **Total unique problems:** 13
+- **Current streak:** 6 days
+- **Longest streak:** 6 days
+- **Most recent attempt:** 2025-08-29
 
 ## 🎮 Level & XP
-- **Level:** 1  
-- **XP:** 190 / 200  
-- [██████████████████████░░] 90%
+- **Level:** 2  
+- **XP:** 210 / 300  
+- [██░░░░░░░░░░░░░░░░░░░░░░] 10%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -42,6 +42,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-08-29 | [3021 Alice And Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | C++ | [📄](cpp/3021.alice_and_bob_playing_flower_game.cpp) |
 | 2025-08-28 | [3446 Sort Matrix By Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description) | C++ | [📄](cpp/3446.sort_matrix_by_diagonals.cpp) |
 | 2025-08-27 | [3459 Length Of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | C++ | [📄](cpp/3459.length_of_longest_v-shaped_diagonal_segment.cpp) |
 | 2025-08-26 | [3000 Maximum Area Of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description) | C++ | [📄](cpp/3000.maximum_area_of_longest_diagonal_rectangle.cpp) |
