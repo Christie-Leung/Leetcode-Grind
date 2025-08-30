@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 13
-- **Current streak:** 6 days
-- **Longest streak:** 6 days
-- **Most recent attempt:** 2025-08-29
+- **Total unique problems:** 14
+- **Current streak:** 7 days
+- **Longest streak:** 7 days
+- **Most recent attempt:** 2025-08-30
 
 ## 🎮 Level & XP
 - **Level:** 2  
-- **XP:** 210 / 300  
-- [██░░░░░░░░░░░░░░░░░░░░░░] 10%
+- **XP:** 230 / 300  
+- [███████░░░░░░░░░░░░░░░░░] 30%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -35,6 +35,7 @@
 
 ## 🏅 Achievements
 - 🥉 **10 Problems**
+- 🔥 **7-Day Current Streak**
 - 🧠 **Multi-Lingual Solver (2+)**
 - 🧩 **Tri-Lingual Solver (3+)**
 
@@ -42,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-08-30 | [36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | C++ | [📄](cpp/36.valid_sudoku.cpp) |
 | 2025-08-29 | [3021 Alice And Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | C++ | [📄](cpp/3021.alice_and_bob_playing_flower_game.cpp) |
 | 2025-08-28 | [3446 Sort Matrix By Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description) | C++ | [📄](cpp/3446.sort_matrix_by_diagonals.cpp) |
 | 2025-08-27 | [3459 Length Of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | C++ | [📄](cpp/3459.length_of_longest_v-shaped_diagonal_segment.cpp) |
