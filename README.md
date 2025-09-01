@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 15
-- **Current streak:** 8 days
-- **Longest streak:** 8 days
-- **Most recent attempt:** 2025-08-31
+- **Total unique problems:** 16
+- **Current streak:** 9 days
+- **Longest streak:** 9 days
+- **Most recent attempt:** 2025-09-01
 
 ## 🎮 Level & XP
 - **Level:** 2  
-- **XP:** 250 / 300  
-- [████████████░░░░░░░░░░░░] 50%
+- **XP:** 270 / 300  
+- [█████████████████░░░░░░░] 70%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-01 | [1792 Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description) | C++ | [📄](cpp/1792.maximum_average_pass_ratio.cpp) |
 | 2025-08-31 | [3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | Python | [📄](py/3.longest_substring_without_repeating_characters.py) |
 | 2025-08-30 | [36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | C++ | [📄](cpp/36.valid_sudoku.cpp) |
 | 2025-08-29 | [3021 Alice And Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | C++ | [📄](cpp/3021.alice_and_bob_playing_flower_game.cpp) |
