@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 16
-- **Current streak:** 9 days
-- **Longest streak:** 9 days
-- **Most recent attempt:** 2025-09-01
+- **Total unique problems:** 17
+- **Current streak:** 10 days
+- **Longest streak:** 10 days
+- **Most recent attempt:** 2025-09-02
 
 ## 🎮 Level & XP
 - **Level:** 2  
-- **XP:** 270 / 300  
-- [█████████████████░░░░░░░] 70%
+- **XP:** 290 / 300  
+- [██████████████████████░░] 90%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-02 | [3025 Find The Number Ways To Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description) | C++ | [📄](cpp/3025.find_the_number_ways_to_place_people_i.cpp) |
 | 2025-09-01 | [1792 Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description) | C++ | [📄](cpp/1792.maximum_average_pass_ratio.cpp) |
 | 2025-08-31 | [3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | Python | [📄](py/3.longest_substring_without_repeating_characters.py) |
 | 2025-08-30 | [36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | C++ | [📄](cpp/36.valid_sudoku.cpp) |
