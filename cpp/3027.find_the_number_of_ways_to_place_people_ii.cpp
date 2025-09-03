@@ -2,6 +2,7 @@
  * Link: https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description
  * Tags: Array, Math, Geometry, Sorting, Enumeration
  * Difficulty: Hard
+ * Date: 2025-09-03
  */
 
 #include <vector>
