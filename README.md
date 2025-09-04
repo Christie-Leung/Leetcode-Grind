@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 17
-- **Current streak:** 10 days
-- **Longest streak:** 10 days
-- **Most recent attempt:** 2025-09-02
+- **Total unique problems:** 18
+- **Current streak:** 11 days
+- **Longest streak:** 11 days
+- **Most recent attempt:** 2025-09-03
 
 ## 🎮 Level & XP
-- **Level:** 2  
-- **XP:** 290 / 300  
-- [██████████████████████░░] 90%
+- **Level:** 3  
+- **XP:** 320 / 400  
+- [█████░░░░░░░░░░░░░░░░░░░] 20%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-03 | [3027 Find The Number Of Ways To Place People Ii](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description) | C++ | [📄](cpp/3027.find_the_number_of_ways_to_place_people_ii.cpp) |
 | 2025-09-02 | [3025 Find The Number Ways To Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description) | C++ | [📄](cpp/3025.find_the_number_ways_to_place_people_i.cpp) |
 | 2025-09-01 | [1792 Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description) | C++ | [📄](cpp/1792.maximum_average_pass_ratio.cpp) |
 | 2025-08-31 | [3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | Python | [📄](py/3.longest_substring_without_repeating_characters.py) |
