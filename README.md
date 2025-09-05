@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 19
-- **Current streak:** 12 days
-- **Longest streak:** 12 days
-- **Most recent attempt:** 2025-09-04
+- **Total unique problems:** 20
+- **Current streak:** 13 days
+- **Longest streak:** 13 days
+- **Most recent attempt:** 2025-09-05
 
 ## 🎮 Level & XP
 - **Level:** 3  
-- **XP:** 330 / 400  
-- [███████░░░░░░░░░░░░░░░░░] 30%
+- **XP:** 350 / 400  
+- [████████████░░░░░░░░░░░░] 50%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-05 | [2749 Minimum Operations To Make The Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | C++ | [📄](cpp/2749.minimum_operations_to_make_the_integer_zero.cpp) |
 | 2025-09-04 | [3516 Find Closest Person](https://leetcode.com/problems/find-closest-person/description/) | Rust | [📄](rust/3516.find_closest_person.rs) |
 | 2025-09-03 | [3027 Find The Number Of Ways To Place People Ii](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description) | C++ | [📄](cpp/3027.find_the_number_of_ways_to_place_people_ii.cpp) |
 | 2025-09-02 | [3025 Find The Number Ways To Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description) | C++ | [📄](cpp/3025.find_the_number_ways_to_place_people_i.cpp) |
