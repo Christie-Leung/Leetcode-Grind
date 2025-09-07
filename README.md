@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 21
-- **Current streak:** 14 days
-- **Longest streak:** 14 days
-- **Most recent attempt:** 2025-09-06
+- **Total unique problems:** 22
+- **Current streak:** 15 days
+- **Longest streak:** 15 days
+- **Most recent attempt:** 2025-09-07
 
 ## 🎮 Level & XP
 - **Level:** 3  
-- **XP:** 380 / 400  
-- [███████████████████░░░░░] 80%
+- **XP:** 390 / 400  
+- [██████████████████████░░] 90%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-07 | [1304 Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description) | Rust | [📄](rust/1304.find_n_unique_integers_sum_up_to_zero.rs) |
 | 2025-09-06 | [3495 Minimum Operations To Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description) | C++ | [📄](cpp/3495.minimum_operations_to_make_array_elements_zero.cpp) |
 | 2025-09-05 | [2749 Minimum Operations To Make The Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | C++ | [📄](cpp/2749.minimum_operations_to_make_the_integer_zero.cpp) |
 | 2025-09-04 | [3516 Find Closest Person](https://leetcode.com/problems/find-closest-person/description/) | Rust | [📄](rust/3516.find_closest_person.rs) |
