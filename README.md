@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 22
-- **Current streak:** 15 days
-- **Longest streak:** 15 days
-- **Most recent attempt:** 2025-09-07
+- **Total unique problems:** 23
+- **Current streak:** 16 days
+- **Longest streak:** 16 days
+- **Most recent attempt:** 2025-09-08
 
 ## 🎮 Level & XP
-- **Level:** 3  
-- **XP:** 390 / 400  
-- [██████████████████████░░] 90%
+- **Level:** 4  
+- **XP:** 400 / 500  
+- [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-08 | [1317 Convert Integer To The Sum Of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/) | Rust | [📄](rust/1317.convert_integer_to_the_sum_of_two_no-zero_integers.rs) |
 | 2025-09-07 | [1304 Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description) | Rust | [📄](rust/1304.find_n_unique_integers_sum_up_to_zero.rs) |
 | 2025-09-06 | [3495 Minimum Operations To Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description) | C++ | [📄](cpp/3495.minimum_operations_to_make_array_elements_zero.cpp) |
 | 2025-09-05 | [2749 Minimum Operations To Make The Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | C++ | [📄](cpp/2749.minimum_operations_to_make_the_integer_zero.cpp) |
