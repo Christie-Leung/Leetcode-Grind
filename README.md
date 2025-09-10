@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 23
-- **Current streak:** 16 days
-- **Longest streak:** 16 days
-- **Most recent attempt:** 2025-09-08
+- **Total unique problems:** 24
+- **Current streak:** 17 days
+- **Longest streak:** 17 days
+- **Most recent attempt:** 2025-09-09
 
 ## 🎮 Level & XP
 - **Level:** 4  
-- **XP:** 400 / 500  
-- [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+- **XP:** 420 / 500  
+- [█████░░░░░░░░░░░░░░░░░░░] 20%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-09 | [2327 Nummber Of People Aware Of A Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/) | C++ | [📄](cpp/2327.nummber_of_people_aware_of_a_secret.cpp) |
 | 2025-09-08 | [1317 Convert Integer To The Sum Of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/) | Rust | [📄](rust/1317.convert_integer_to_the_sum_of_two_no-zero_integers.rs) |
 | 2025-09-07 | [1304 Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description) | Rust | [📄](rust/1304.find_n_unique_integers_sum_up_to_zero.rs) |
 | 2025-09-06 | [3495 Minimum Operations To Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description) | C++ | [📄](cpp/3495.minimum_operations_to_make_array_elements_zero.cpp) |
