@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 27
-- **Current streak:** 20 days
-- **Longest streak:** 20 days
-- **Most recent attempt:** 2025-09-12
+- **Total unique problems:** 28
+- **Current streak:** 21 days
+- **Longest streak:** 21 days
+- **Most recent attempt:** 2025-09-13
 
 ## 🎮 Level & XP
 - **Level:** 4  
-- **XP:** 480 / 500  
-- [███████████████████░░░░░] 80%
+- **XP:** 490 / 500  
+- [██████████████████████░░] 90%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-13 | [3541 Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description) | Rust | [📄](rust/3541.find_most_frequent_vowel_and_consonant.rs) |
 | 2025-09-12 | [3227 Vowels Game In A String](https://leetcode.com/problems/vowels-game-in-a-string/description) | C++ | [📄](cpp/3227.vowels_game_in_a_string.cpp) |
 | 2025-09-11 | [2785 Sort Vowels In A String](https://leetcode.com/problems/sort-vowels-in-a-string/description) | C++ | [📄](cpp/2785.sort_vowels_in_a_string.cpp) |
 | 2025-09-10 | [1733 Minimum Number Of People To Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description) | C++ | [📄](cpp/1733.minimum_number_of_people_to_teach.cpp) |
