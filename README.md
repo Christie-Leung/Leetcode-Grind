@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 28
-- **Current streak:** 21 days
-- **Longest streak:** 21 days
-- **Most recent attempt:** 2025-09-13
+- **Total unique problems:** 29
+- **Current streak:** 22 days
+- **Longest streak:** 22 days
+- **Most recent attempt:** 2025-09-14
 
 ## 🎮 Level & XP
-- **Level:** 4  
-- **XP:** 490 / 500  
-- [██████████████████████░░] 90%
+- **Level:** 5  
+- **XP:** 510 / 600  
+- [██░░░░░░░░░░░░░░░░░░░░░░] 10%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -38,11 +38,13 @@
 - 🔥 **7-Day Current Streak**
 - 🧠 **Multi-Lingual Solver (2+)**
 - 🧩 **Tri-Lingual Solver (3+)**
+- 🚀 **Level 5+**
 
 
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-14 | [966 Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/) | C++ | [📄](cpp/966.vowel_spellchecker.cpp) |
 | 2025-09-13 | [3541 Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description) | Rust | [📄](rust/3541.find_most_frequent_vowel_and_consonant.rs) |
 | 2025-09-12 | [3227 Vowels Game In A String](https://leetcode.com/problems/vowels-game-in-a-string/description) | C++ | [📄](cpp/3227.vowels_game_in_a_string.cpp) |
 | 2025-09-11 | [2785 Sort Vowels In A String](https://leetcode.com/problems/sort-vowels-in-a-string/description) | C++ | [📄](cpp/2785.sort_vowels_in_a_string.cpp) |
