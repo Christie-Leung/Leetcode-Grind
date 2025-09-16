@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 30
-- **Current streak:** 23 days
-- **Longest streak:** 23 days
-- **Most recent attempt:** 2025-09-15
+- **Total unique problems:** 31
+- **Current streak:** 24 days
+- **Longest streak:** 24 days
+- **Most recent attempt:** 2025-09-16
 
 ## 🎮 Level & XP
 - **Level:** 5  
-- **XP:** 520 / 600  
-- [█████░░░░░░░░░░░░░░░░░░░] 20%
+- **XP:** 550 / 600  
+- [████████████░░░░░░░░░░░░] 50%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -44,6 +44,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-16 | [2197 Replace Non-Coprime Numbers In Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description) | C++ | [📄](cpp/2197.replace_non-coprime_numbers_in_array.cpp) |
 | 2025-09-15 | [1935 Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description) | typescript | [📄](typescript/1935.maximum_number_of_words_you_can_type.ts) |
 | 2025-09-14 | [966 Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/) | C++ | [📄](cpp/966.vowel_spellchecker.cpp) |
 | 2025-09-13 | [3541 Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description) | Rust | [📄](rust/3541.find_most_frequent_vowel_and_consonant.rs) |
