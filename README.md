@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 31
-- **Current streak:** 24 days
+- **Total unique problems:** 32
+- **Current streak:** 1 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-09-16
+- **Most recent attempt:** 2025-09-19
 
 ## 🎮 Level & XP
 - **Level:** 5  
-- **XP:** 550 / 600  
-- [████████████░░░░░░░░░░░░] 50%
+- **XP:** 570 / 600  
+- [█████████████████░░░░░░░] 70%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -35,7 +35,6 @@
 
 ## 🏅 Achievements
 - 🥉 **10 Problems**
-- 🔥 **7-Day Current Streak**
 - 🧠 **Multi-Lingual Solver (2+)**
 - 🧩 **Tri-Lingual Solver (3+)**
 - 🚀 **Level 5+**
@@ -44,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-19 | [3408 Design Task Manager](https://leetcode.com/problems/design-task-manager/description) | C++ | [📄](cpp/3408.design_task_manager.cpp) |
 | 2025-09-16 | [2197 Replace Non-Coprime Numbers In Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description) | C++ | [📄](cpp/2197.replace_non-coprime_numbers_in_array.cpp) |
 | 2025-09-15 | [1935 Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description) | typescript | [📄](typescript/1935.maximum_number_of_words_you_can_type.ts) |
 | 2025-09-14 | [966 Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/) | C++ | [📄](cpp/966.vowel_spellchecker.cpp) |
