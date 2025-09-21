@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 33
+- **Total unique problems:** 34
 - **Current streak:** 1 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-09-19
+- **Most recent attempt:** 2025-09-21
 
 ## 🎮 Level & XP
-- **Level:** 5  
-- **XP:** 590 / 600  
-- [██████████████████████░░] 90%
+- **Level:** 6  
+- **XP:** 610 / 700  
+- [██░░░░░░░░░░░░░░░░░░░░░░] 10%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-21 | [3508 Implement Router](https://leetcode.com/problems/implement-router/description) | C++ | [📄](cpp/3508.implement_router.cpp) |
 | 2025-09-19 | [3408 Design Task Manager](https://leetcode.com/problems/design-task-manager/description) | C++ | [📄](cpp/3408.design_task_manager.cpp) |
 | 2025-09-19 | [3484 Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description) | C++ | [📄](cpp/3484.design_spreadsheet.cpp) |
 | 2025-09-16 | [2197 Replace Non-Coprime Numbers In Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description) | C++ | [📄](cpp/2197.replace_non-coprime_numbers_in_array.cpp) |
