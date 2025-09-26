@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 36
-- **Current streak:** 2 days
+- **Total unique problems:** 37
+- **Current streak:** 3 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-09-22
+- **Most recent attempt:** 2025-09-23
 
 ## 🎮 Level & XP
 - **Level:** 6  
-- **XP:** 650 / 700  
-- [████████████░░░░░░░░░░░░] 50%
+- **XP:** 670 / 700  
+- [█████████████████░░░░░░░] 70%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-23 | [165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description) | Python | [📄](py/165.compare_version_numbers.py) |
 | 2025-09-22 | [3005 Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description) | C++ | [📄](cpp/3005.count_elements_with_maximum_frequency.cpp) |
 | 2025-09-21 | [3508 Implement Router](https://leetcode.com/problems/implement-router/description) | C++ | [📄](cpp/3508.implement_router.cpp) |
 | 2025-09-21 | [1912 Design Movie Rental System](https://leetcode.com/problems/implement-router/description) | C++ | [📄](cpp/1912.design_movie_rental_system.cpp) |
