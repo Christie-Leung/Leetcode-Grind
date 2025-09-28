@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 38
-- **Current streak:** 1 days
+- **Total unique problems:** 39
+- **Current streak:** 2 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-09-26
+- **Most recent attempt:** 2025-09-27
 
 ## 🎮 Level & XP
-- **Level:** 6  
-- **XP:** 690 / 700  
-- [██████████████████████░░] 90%
+- **Level:** 7  
+- **XP:** 700 / 800  
+- [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-27 | [812 Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description) | C++ | [📄](cpp/812.largest_triangle_area.cpp) |
 | 2025-09-26 | [611 Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description) | C++ | [📄](cpp/611.valid_triangle_number.cpp) |
 | 2025-09-23 | [165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description) | Python | [📄](py/165.compare_version_numbers.py) |
 | 2025-09-22 | [3005 Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description) | C++ | [📄](cpp/3005.count_elements_with_maximum_frequency.cpp) |
