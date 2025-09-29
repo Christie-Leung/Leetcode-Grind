@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 39
-- **Current streak:** 2 days
+- **Total unique problems:** 40
+- **Current streak:** 3 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-09-27
+- **Most recent attempt:** 2025-09-28
 
 ## 🎮 Level & XP
 - **Level:** 7  
-- **XP:** 700 / 800  
-- [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+- **XP:** 710 / 800  
+- [██░░░░░░░░░░░░░░░░░░░░░░] 10%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-28 | [976,Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description) | C++ | [📄](cpp/976,largest_perimeter_triangle.cpp) |
 | 2025-09-27 | [812 Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description) | C++ | [📄](cpp/812.largest_triangle_area.cpp) |
 | 2025-09-26 | [611 Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description) | C++ | [📄](cpp/611.valid_triangle_number.cpp) |
 | 2025-09-23 | [165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description) | Python | [📄](py/165.compare_version_numbers.py) |
