@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 40
-- **Current streak:** 3 days
+- **Total unique problems:** 41
+- **Current streak:** 4 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-09-28
+- **Most recent attempt:** 2025-09-29
 
 ## 🎮 Level & XP
 - **Level:** 7  
-- **XP:** 710 / 800  
-- [██░░░░░░░░░░░░░░░░░░░░░░] 10%
+- **XP:** 730 / 800  
+- [███████░░░░░░░░░░░░░░░░░] 30%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-09-29 | [1039 Minimum Score Triangulation Of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description) | C++ | [📄](cpp/1039.minimum_score_triangulation_of_polygon.cpp) |
 | 2025-09-28 | [976,Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description) | C++ | [📄](cpp/976,largest_perimeter_triangle.cpp) |
 | 2025-09-27 | [812 Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description) | C++ | [📄](cpp/812.largest_triangle_area.cpp) |
 | 2025-09-26 | [611 Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description) | C++ | [📄](cpp/611.valid_triangle_number.cpp) |
