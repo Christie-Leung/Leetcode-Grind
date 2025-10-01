@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 42
-- **Current streak:** 5 days
+- **Total unique problems:** 43
+- **Current streak:** 6 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-09-30
+- **Most recent attempt:** 2025-10-01
 
 ## 🎮 Level & XP
 - **Level:** 7  
-- **XP:** 750 / 800  
-- [████████████░░░░░░░░░░░░] 50%
+- **XP:** 760 / 800  
+- [██████████████░░░░░░░░░░] 60%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -43,6 +43,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-01 | [1518 Water Bottles](https://leetcode.com/problems/water-bottles/description) | C++ | [📄](cpp/1518.water_bottles.cpp) |
 | 2025-09-30 | [2221 Find Triangular Sum Of An Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description) | C++ | [📄](cpp/2221.find_triangular_sum_of_an_array.cpp) |
 | 2025-09-29 | [1039 Minimum Score Triangulation Of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description) | C++ | [📄](cpp/1039.minimum_score_triangulation_of_polygon.cpp) |
 | 2025-09-28 | [976,Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description) | C++ | [📄](cpp/976,largest_perimeter_triangle.cpp) |
