@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 43
-- **Current streak:** 6 days
+- **Total unique problems:** 44
+- **Current streak:** 7 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-01
+- **Most recent attempt:** 2025-10-02
 
 ## 🎮 Level & XP
 - **Level:** 7  
-- **XP:** 760 / 800  
-- [██████████████░░░░░░░░░░] 60%
+- **XP:** 780 / 800  
+- [███████████████████░░░░░] 80%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -35,6 +35,7 @@
 
 ## 🏅 Achievements
 - 🥉 **10 Problems**
+- 🔥 **7-Day Current Streak**
 - 🧠 **Multi-Lingual Solver (2+)**
 - 🧩 **Tri-Lingual Solver (3+)**
 - 🚀 **Level 5+**
@@ -43,6 +44,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-02 | [3100 Water Bottles Ii](https://leetcode.com/problems/water-bottles-ii/description) | C++ | [📄](cpp/3100.water_bottles_ii.cpp) |
 | 2025-10-01 | [1518 Water Bottles](https://leetcode.com/problems/water-bottles/description) | C++ | [📄](cpp/1518.water_bottles.cpp) |
 | 2025-09-30 | [2221 Find Triangular Sum Of An Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description) | C++ | [📄](cpp/2221.find_triangular_sum_of_an_array.cpp) |
 | 2025-09-29 | [1039 Minimum Score Triangulation Of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description) | C++ | [📄](cpp/1039.minimum_score_triangulation_of_polygon.cpp) |
