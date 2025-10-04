@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 45
-- **Current streak:** 8 days
+- **Total unique problems:** 46
+- **Current streak:** 9 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-03
+- **Most recent attempt:** 2025-10-04
 
 ## 🎮 Level & XP
-- **Level:** 7  
-- **XP:** 790 / 800  
-- [██████████████████████░░] 90%
+- **Level:** 8  
+- **XP:** 810 / 900  
+- [██░░░░░░░░░░░░░░░░░░░░░░] 10%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -44,6 +44,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-04 | [11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/description) | C++ | [📄](cpp/11.container_with_most_water.cpp) |
 | 2025-10-03 | [3442 Maximum Difference Between Even And Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description) | C++ | [📄](cpp/3442.maximum_difference_between_even_and_odd_frequency_i.cpp) |
 | 2025-10-02 | [3100 Water Bottles Ii](https://leetcode.com/problems/water-bottles-ii/description) | C++ | [📄](cpp/3100.water_bottles_ii.cpp) |
 | 2025-10-01 | [1518 Water Bottles](https://leetcode.com/problems/water-bottles/description) | C++ | [📄](cpp/1518.water_bottles.cpp) |
