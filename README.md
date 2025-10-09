@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 49
-- **Current streak:** 1 days
+- **Total unique problems:** 50
+- **Current streak:** 2 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-08
+- **Most recent attempt:** 2025-10-09
 
 ## 🎮 Level & XP
-- **Level:** 8  
-- **XP:** 880 / 900  
-- [███████████████████░░░░░] 80%
+- **Level:** 9  
+- **XP:** 900 / 1000  
+- [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -35,6 +35,7 @@
 
 ## 🏅 Achievements
 - 🥉 **10 Problems**
+- 🥈 **50 Problems**
 - 🧠 **Multi-Lingual Solver (2+)**
 - 🧩 **Tri-Lingual Solver (3+)**
 - 🚀 **Level 5+**
@@ -43,6 +44,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-09 | [3494 Find The Minimum Amount Of Time To Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | C++ | [📄](cpp/3494.find_the_minimum_amount_of_time_to_brew_potions.cpp) |
 | 2025-10-08 | [2300 Successful Pairs Of Spells And Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | C++ | [📄](cpp/2300.successful_pairs_of_spells_and_potions.cpp) |
 | 2025-10-06 | [778 Swim In Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | C++ | [📄](cpp/778.swim_in_rising_water.cpp) |
 | 2025-10-05 | [417 Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description) | C++ | [📄](cpp/417.pacific_atlantic_water_flow.cpp) |
