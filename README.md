@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 50
-- **Current streak:** 2 days
+- **Total unique problems:** 51
+- **Current streak:** 3 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-09
+- **Most recent attempt:** 2025-10-10
 
 ## 🎮 Level & XP
 - **Level:** 9  
-- **XP:** 900 / 1000  
-- [░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+- **XP:** 920 / 1000  
+- [█████░░░░░░░░░░░░░░░░░░░] 20%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -44,6 +44,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-10 | [3147 Taking Maximum Energy From The Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | C++ | [📄](cpp/3147.taking_maximum_energy_From_the_mystic_dungeon.cpp) |
 | 2025-10-09 | [3494 Find The Minimum Amount Of Time To Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | C++ | [📄](cpp/3494.find_the_minimum_amount_of_time_to_brew_potions.cpp) |
 | 2025-10-08 | [2300 Successful Pairs Of Spells And Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | C++ | [📄](cpp/2300.successful_pairs_of_spells_and_potions.cpp) |
 | 2025-10-06 | [778 Swim In Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | C++ | [📄](cpp/778.swim_in_rising_water.cpp) |
