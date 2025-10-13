@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 52
-- **Current streak:** 4 days
+- **Total unique problems:** 53
+- **Current streak:** 5 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-11
+- **Most recent attempt:** 2025-10-12
 
 ## 🎮 Level & XP
 - **Level:** 9  
-- **XP:** 940 / 1000  
-- [██████████░░░░░░░░░░░░░░] 40%
+- **XP:** 950 / 1000  
+- [████████████░░░░░░░░░░░░] 50%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -44,6 +44,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-12 | [1394 Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | C++ | [📄](cpp/1394.find_lucky_integer_in_an_array.cpp) |
 | 2025-10-11 | [3186 Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | C++ | [📄](cpp/3186.maximum_total_damage_with_spell_casting.cpp) |
 | 2025-10-10 | [3147 Taking Maximum Energy From The Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | C++ | [📄](cpp/3147.taking_maximum_energy_From_the_mystic_dungeon.cpp) |
 | 2025-10-09 | [3494 Find The Minimum Amount Of Time To Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | C++ | [📄](cpp/3494.find_the_minimum_amount_of_time_to_brew_potions.cpp) |
