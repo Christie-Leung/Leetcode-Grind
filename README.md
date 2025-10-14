@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 53
-- **Current streak:** 5 days
+- **Total unique problems:** 54
+- **Current streak:** 6 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-12
+- **Most recent attempt:** 2025-10-13
 
 ## 🎮 Level & XP
 - **Level:** 9  
-- **XP:** 950 / 1000  
-- [████████████░░░░░░░░░░░░] 50%
+- **XP:** 960 / 1000  
+- [██████████████░░░░░░░░░░] 60%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -44,6 +44,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-13 | [2273 Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | C++ | [📄](cpp/2273.find_resultant_array_after_removing_anagrams.cpp) |
 | 2025-10-12 | [1394 Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | C++ | [📄](cpp/1394.find_lucky_integer_in_an_array.cpp) |
 | 2025-10-11 | [3186 Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | C++ | [📄](cpp/3186.maximum_total_damage_with_spell_casting.cpp) |
 | 2025-10-10 | [3147 Taking Maximum Energy From The Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | C++ | [📄](cpp/3147.taking_maximum_energy_From_the_mystic_dungeon.cpp) |
