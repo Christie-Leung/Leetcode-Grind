@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 54
-- **Current streak:** 6 days
+- **Total unique problems:** 55
+- **Current streak:** 7 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-13
+- **Most recent attempt:** 2025-10-14
 
 ## 🎮 Level & XP
 - **Level:** 9  
-- **XP:** 960 / 1000  
-- [██████████████░░░░░░░░░░] 60%
+- **XP:** 970 / 1000  
+- [█████████████████░░░░░░░] 70%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -36,6 +36,7 @@
 ## 🏅 Achievements
 - 🥉 **10 Problems**
 - 🥈 **50 Problems**
+- 🔥 **7-Day Current Streak**
 - 🧠 **Multi-Lingual Solver (2+)**
 - 🧩 **Tri-Lingual Solver (3+)**
 - 🚀 **Level 5+**
@@ -44,6 +45,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-14 | [3349 Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | C++ | [📄](cpp/3349.adjacent_increasing_subarrays_detection_i.cpp) |
 | 2025-10-13 | [2273 Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | C++ | [📄](cpp/2273.find_resultant_array_after_removing_anagrams.cpp) |
 | 2025-10-12 | [1394 Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | C++ | [📄](cpp/1394.find_lucky_integer_in_an_array.cpp) |
 | 2025-10-11 | [3186 Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | C++ | [📄](cpp/3186.maximum_total_damage_with_spell_casting.cpp) |
