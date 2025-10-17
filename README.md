@@ -1,13 +1,13 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 57
-- **Current streak:** 9 days
+- **Total unique problems:** 64
+- **Current streak:** 10 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-16
+- **Most recent attempt:** 2025-10-17
 
 ## 🎮 Level & XP
-- **Level:** 10  
-- **XP:** 1010 / 1100  
+- **Level:** 11  
+- **XP:** 1110 / 1200  
 - [██░░░░░░░░░░░░░░░░░░░░░░] 10%
 
 
@@ -46,6 +46,13 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-17 | [122 Best Time To Buy And Sell Stock Ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | C++ | [📄](cpp/122.best_time_to_buy_and_sell_stock_ii.cpp) |
+| 2025-10-17 | [206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | C++ | [📄](cpp/206.reverse_linked_list.cpp) |
+| 2025-10-17 | [198 House Robber](https://leetcode.com/problems/house-robber/) | C++ | [📄](cpp/198.house_robber.cpp) |
+| 2025-10-17 | [242 Valid Anagram](https://leetcode.com/problems/valid-anagram/) | C++ | [📄](cpp/242.valid_anagram.cpp) |
+| 2025-10-17 | [279 Perfect Squares](https://leetcode.com/problems/perfect-squares/) | C++ | [📄](cpp/279.perfect_squares.cpp) |
+| 2025-10-17 | [70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | C++ | [📄](cpp/70.climbing_stairs.cpp) |
+| 2025-10-17 | [121 Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | C++ | [📄](cpp/121.best_time_to_buy_and_sell_stock.cpp) |
 | 2025-10-16 | [2598 Smallest Missing Non-Negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | C++ | [📄](cpp/2598.smallest_missing_non-negative_integer_after_operations.cpp) |
 | 2025-10-15 | [3350 Adjacent Increasing Subarrays Detection Ii](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | C++ | [📄](cpp/3350.adjacent_increasing_subarrays_detection_ii.cpp) |
 | 2025-10-14 | [3349 Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | C++ | [📄](cpp/3349.adjacent_increasing_subarrays_detection_i.cpp) |
