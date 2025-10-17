@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 56
-- **Current streak:** 8 days
+- **Total unique problems:** 57
+- **Current streak:** 9 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-15
+- **Most recent attempt:** 2025-10-16
 
 ## 🎮 Level & XP
-- **Level:** 9  
-- **XP:** 990 / 1000  
-- [██████████████████████░░] 90%
+- **Level:** 10  
+- **XP:** 1010 / 1100  
+- [██░░░░░░░░░░░░░░░░░░░░░░] 10%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -40,11 +40,13 @@
 - 🧠 **Multi-Lingual Solver (2+)**
 - 🧩 **Tri-Lingual Solver (3+)**
 - 🚀 **Level 5+**
+- 🌟 **Level 10+**
 
 
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-16 | [2598 Smallest Missing Non-Negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | C++ | [📄](cpp/2598.smallest_missing_non-negative_integer_after_operations.cpp) |
 | 2025-10-15 | [3350 Adjacent Increasing Subarrays Detection Ii](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | C++ | [📄](cpp/3350.adjacent_increasing_subarrays_detection_ii.cpp) |
 | 2025-10-14 | [3349 Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | C++ | [📄](cpp/3349.adjacent_increasing_subarrays_detection_i.cpp) |
 | 2025-10-13 | [2273 Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | C++ | [📄](cpp/2273.find_resultant_array_after_removing_anagrams.cpp) |
