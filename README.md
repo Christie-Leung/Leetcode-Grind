@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 69
+- **Total unique problems:** 70
 - **Current streak:** 12 days
 - **Longest streak:** 24 days
 - **Most recent attempt:** 2025-10-19
 
 ## 🎮 Level & XP
 - **Level:** 12  
-- **XP:** 1220 / 1300  
-- [█████░░░░░░░░░░░░░░░░░░░] 20%
+- **XP:** 1240 / 1300  
+- [██████████░░░░░░░░░░░░░░] 40%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -48,6 +48,7 @@
 |------|---------|----------|----------|
 | 2025-10-19 | [1625 Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) | C++ | [📄](cpp/1625.lexicographically_smallest_string_after_applying_operations.cpp) |
 | 2025-10-19 | [1235 Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | C++ | [📄](cpp/1235.maximum_profit_in_job_scheduling.cpp) |
+| 2025-10-19 | [46 Permutations](https://leetcode.com/problems/permutations) | C++ | [📄](cpp/46.permutations.cpp) |
 | 2025-10-18 | [72 Edit Distance](https://leetcode.com/problems/edit-distance/) | C++ | [📄](cpp/72.edit_distance.cpp) |
 | 2025-10-18 | [377 Combination Sum Iv](https://leetcode.com/problems/combination-sum-iv/) | C++ | [📄](cpp/377.combination_sum_iv.cpp) |
 | 2025-10-18 | [3397 Maximum Number Of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | C++ | [📄](cpp/3397.maximum_number_of_distinct_elements_after_operations.cpp) |
