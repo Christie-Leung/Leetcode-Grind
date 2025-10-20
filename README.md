@@ -1,14 +1,14 @@
 # LeetCode Daily Grind
 
-- **Total unique problems:** 70
-- **Current streak:** 12 days
+- **Total unique problems:** 71
+- **Current streak:** 13 days
 - **Longest streak:** 24 days
-- **Most recent attempt:** 2025-10-19
+- **Most recent attempt:** 2025-10-20
 
 ## 🎮 Level & XP
 - **Level:** 12  
-- **XP:** 1240 / 1300  
-- [██████████░░░░░░░░░░░░░░] 40%
+- **XP:** 1250 / 1300  
+- [████████████░░░░░░░░░░░░] 50%
 
 
 ## 📆 Last 12 Months — Activity Heatmap
@@ -46,6 +46,7 @@
 ## 📜 All Solved Exercises
 | Date | Problem | Language | Solution |
 |------|---------|----------|----------|
+| 2025-10-20 | [2011 Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | C++ | [📄](cpp/2011.final_value_of_variable_after_performing_operations.cpp) |
 | 2025-10-19 | [1625 Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) | C++ | [📄](cpp/1625.lexicographically_smallest_string_after_applying_operations.cpp) |
 | 2025-10-19 | [1235 Maximum Profit In Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | C++ | [📄](cpp/1235.maximum_profit_in_job_scheduling.cpp) |
 | 2025-10-19 | [46 Permutations](https://leetcode.com/problems/permutations) | C++ | [📄](cpp/46.permutations.cpp) |
